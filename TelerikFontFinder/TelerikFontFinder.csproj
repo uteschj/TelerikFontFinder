@@ -12,9 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Page Include="README.md">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Page>
   </ItemGroup>
 
 </Project>

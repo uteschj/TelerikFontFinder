@@ -19,7 +19,7 @@ Clone the repository to your local machine using: git clone https://github.com/u
 1. **Run the Application:**
    Navigate to the application's directory and run the application using the .NET CLI: `dotnet run`
 
-2. **Enter the Source Directory:**
+   2. **Enter the Source Directory:**
 When prompted, enter the full path of the directory you wish to search.
 
 3. **Enter the Font Name:**
@@ -42,4 +42,3 @@ The application will then process each `.trdp` file in the directory and provide
 Contributions to the TelerikFontFinder are welcome. Please ensure that your code adheres to the existing style for consistency.
 
 ## License
-Apache 2.0
