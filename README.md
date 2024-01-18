@@ -13,7 +13,7 @@ TelerikFontFinder is a simple C# console application designed to search for spec
 - Basic knowledge of running console applications.
 
 ## Installation
-Clone the repository to your local machine using: git clone https://github.com/utesch/TelerikFontFinder.git
+Clone the repository to your local machine using: `git clone https://github.com/utesch/TelerikFontFinder.git`
 
 ## Usage
 1. **Run the Application:**
@@ -42,3 +42,4 @@ The application will then process each `.trdp` file in the directory and provide
 Contributions to the TelerikFontFinder are welcome. Please ensure that your code adheres to the existing style for consistency.
 
 ## License
+Apache 2.0
